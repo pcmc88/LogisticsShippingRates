@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-# IBM Git and GitHub - practice project
+IBM Git and GitHub - practice project
 Please consider the below factors while contributing
 
 Code Style:
@@ -19,3 +19,6 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+
+
